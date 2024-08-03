@@ -30,6 +30,9 @@ The products.csv file includes detailed information about individual products, s
 Conclusion:
 By integrating and visualizing data from these CSV files, the Classic Models Power BI dashboard provides a comprehensive and detailed view of the company's operations. The dashboard enables stakeholders to make informed decisions based on customer behavior, employee distribution, office performance, sales trends, financial health, product categorization, and inventory management. This holistic approach ensures that all aspects of the business are monitored and optimized effectively.
 
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/9616ea29-0064-4749-bf80-c2a136e6743f">
+
+
 
 
 
